@@ -1,7 +1,7 @@
 ## INCOMPLETE there is still alot to do check back later
 
 ## TODO:
-complete exploit env lib
-__index fix
-debug.info hooks & environment security
-testing
+1. complete exploit env lib and debug.setname
+2. __index fix
+3. debug.info hooks & environment security
+4. getgc completion
